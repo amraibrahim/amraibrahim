@@ -10,11 +10,6 @@
 - Expanding my knowledge in Data Structures, Data Science, and Data Analytics.
 - Actively participating in coding challenges and projects to enhance my skills.
 
-## 💞️ Open to Collaboration
-
-- I'm enthusiastic about collaborating on open-source projects.
-- Interested in working with like-minded developers to build innovative solutions.
-
 ## 📫 How to Reach Me
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/amra-ibrahim-003911286/) for professional networking.

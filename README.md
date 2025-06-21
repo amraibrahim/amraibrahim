@@ -1,20 +1,16 @@
-# 👋 Hi, I'm @amraibrahim
+# hi, i'm @amraibrahim !!
 
-## 👀 About Me
+# a little about me
+i'm a computer science student who loves building things with code
+really into software development, web technologies, and solving real-world problems
 
-- Computer Science student passionate about coding and financial technology.
-- Interested in software development, web technologies, and problem-solving.
+# currently learning
+digging deeper into artificial intelligence, data science, and analytics
+working on projects and coding challenges to keep leveling up my skills
 
-## 🌱 Currently Learning
-
-- Expanding my knowledge in Data Structures, Data Science, and Data Analytics.
-- Actively participating in coding challenges and projects to enhance my skills.
-
-## 📫 How to Reach Me
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/amra-ibrahim-003911286/) for professional networking.
-- Feel free to send me a message here on GitHub.
-
+# how to reach me
+connect with me on linkedin for networking :)
+feel free to send me a message here on github
 <!---
 amraibrahim/amraibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
